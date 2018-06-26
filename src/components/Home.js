@@ -9,11 +9,13 @@ class Home extends Component{
         }
     }
 
-    // render(){
-    // return(
-        
-    // );        
-    // }
+    render(){
+    return(
+        <div>
+            
+        </div>
+    );        
+    }
 
 
 }
