@@ -1,24 +1,21 @@
 import React, { Component } from 'react';
+import Header from './Header/Header';
 
 class Home extends Component{
 
-    constructor(){
-        super();
-        this.state ={
-
-        }
-    }
 
     render(){
-    return(
-        <div>
-            
-        </div>
-    );        
+        return(
+            <div>
+                <Header/>
+            </div>
+        );
     }
 
 
-}
+
+ }
+    
 
 
 
