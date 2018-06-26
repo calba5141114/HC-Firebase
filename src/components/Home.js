@@ -9,16 +9,11 @@ class Home extends Component{
         }
     }
 
-    render(){
-
-    return(
-        <div>
-            Hello World!
-        </div>
-    );        
-
-
-    }
+    // render(){
+    // return(
+        
+    // );        
+    // }
 
 
 }
